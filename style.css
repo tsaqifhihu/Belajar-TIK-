@@ -16,5 +16,5 @@ body {
 
 .kartu-profil img. { 
 width: 150px;
-    border-radius: 100%; /* trik untuk mebuat gamvar persegi menjadi lingkaran sempurna */
+    border-radius: 50%; /* trik untuk mebuat gamvar persegi menjadi lingkaran sempurna */
 }

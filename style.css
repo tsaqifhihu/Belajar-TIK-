@@ -14,7 +14,7 @@ body {
     text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
-.kartu-profil img.{ 
+.kartu-profil img{ 
 width: 150px;
     border-radius: 50%; /* trik untuk mebuat gamvar persegi menjadi lingkaran sempurna */
 }

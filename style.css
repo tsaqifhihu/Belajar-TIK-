@@ -1,0 +1,9 @@
+body {  
+    background-colour : #0084e3; /* warna biru muda */
+  font-family: Times New Roman", Times, serif; 
+  color: #000000;
+}
+
+.kartu-profil {
+  wifth; 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan*/

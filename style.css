@@ -1,12 +1,12 @@
 body {  
-    background-colour : #0084e3; /* warna biru muda */
+    background-colour : #FFFFE0;
   font-family: Times New Roman", Times, serif; 
-  color: ##ffffff; /* warna teks utama putih*/
+  color: #191970; /* warna teks utama (biru gelap) */
 }
 
 .kartu-profil {
-  wifth: 300px;
-  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan*/
+  width: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
     background-color: white;
     border-radius: 15px;/* membuat sudut menjadi melengkung*/
@@ -14,7 +14,7 @@ body {
     text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
-.kartu-profil img{ 
+.kartu-profil img { 
 width: 150px;
     border-radius: 50%; /* trik untuk mebuat gamvar persegi menjadi lingkaran sempurna */
 }
